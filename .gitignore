@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Editor settings
+.vscode/
+.idea/
