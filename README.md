@@ -46,6 +46,6 @@ Each assignment directory contains a formal report named `report.pdf` and the co
 
 ## Authors
 
-**Group:** Team Optima  
+**Group:** Team Optimizers 
 **Course:** CS771: Introduction to Machine Learning  
 **Institution:** Indian Institute of Technology (IIT) Kanpur, 2025-26
